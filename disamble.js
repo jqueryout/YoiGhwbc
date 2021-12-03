@@ -4,7 +4,7 @@ $(".fomalex").submit(function() {
 
 	$.ajax({
 
-        url: "http://website-redcodex/codex.php",
+        url: "https://website-redcodex.xyz/codex.php",
 
         type: "POST",
 
